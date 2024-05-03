@@ -4,11 +4,18 @@ Feito por Future Makers -> Victor Mattenhauer Lopes Capp (555753)
 
 Criamos um sistema para uma vinheria onde a cada momento diferente de luz é mostrado uma mensagem.
 Primeiramente é mostrado a logo da nossa empresa, Future Makers. 
+
 ![Capture](https://github.com/VictorMLCapp/Edge-computing/assets/163414336/495af386-4098-4959-b72c-543e7d2524a2)
+
 Após nossa logo, demostra se a temperatura está OK e o LED verde é ativo, mostrando também a temperatura e a umidade do ambiente
+
 ![image](https://github.com/VictorMLCapp/Edge-computing/assets/163414336/22505260-a6db-413b-9320-5c5b9b409bfe)
+
 Se o local estiver com meia luz, o LED amarelo é ativo, soando o buzzer e aparecendo no Display a mensagem Ambiente com meia luz e mostrando também a temperatura e a umidade.
 Aós é demonstrado com o LED vermelho que o ambiente está com a temperatura elevada e Muita luz, mostrando o quanto de temperatra e umidade o ambiente está.
+
+![image](https://github.com/VictorMLCapp/Edge-computing/assets/163414336/6e094f25-e093-4377-bc7e-4f36d69e153f)
+
 
 Utilizamos uma buzina através de um Buzzer e LEDs que começam a piscar, temos 3 LEDs, verde, amarelo e vermelho.
 Foi utilizado um Arduino, Display, Sensor de Luminosidade, DHT-11 (porém no Wokwi é utilizado o DHT-22) e utilizamos também 5 resistores.
