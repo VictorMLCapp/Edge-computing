@@ -23,6 +23,7 @@ Aós é demonstrado com o LED vermelho que o ambiente está com a temperatura el
 
 Utilizamos uma buzina através de um Buzzer e LEDs que começam a piscar, temos 3 LEDs, verde, amarelo e vermelho.
 Foi utilizado um Arduino, Display, Sensor de Luminosidade, DHT-11 (porém no Wokwi é utilizado o DHT-22) e utilizamos também 5 resistores e 24 fios aproximadamente (foto do projeto desligado a seguir)
+
 ![image](https://github.com/VictorMLCapp/Edge-computing/assets/163414336/d2614fcd-4044-4b90-9228-80cbbb474b2d)
 
 
