@@ -12,13 +12,24 @@ Após nossa logo, demostra se a temperatura está OK e o LED verde é ativo, mos
 ![image](https://github.com/VictorMLCapp/Edge-computing/assets/163414336/22505260-a6db-413b-9320-5c5b9b409bfe)
 
 Se o local estiver com meia luz, o LED amarelo é ativo, soando o buzzer e aparecendo no Display a mensagem Ambiente com meia luz e mostrando também a temperatura e a umidade.
+
+![image](https://github.com/VictorMLCapp/Edge-computing/assets/163414336/b0b12c46-2f03-4673-8aac-ffc91aceb363)
+
+
 Aós é demonstrado com o LED vermelho que o ambiente está com a temperatura elevada e Muita luz, mostrando o quanto de temperatra e umidade o ambiente está.
 
 ![image](https://github.com/VictorMLCapp/Edge-computing/assets/163414336/6e094f25-e093-4377-bc7e-4f36d69e153f)
 
 
 Utilizamos uma buzina através de um Buzzer e LEDs que começam a piscar, temos 3 LEDs, verde, amarelo e vermelho.
-Foi utilizado um Arduino, Display, Sensor de Luminosidade, DHT-11 (porém no Wokwi é utilizado o DHT-22) e utilizamos também 5 resistores.
+Foi utilizado um Arduino, Display, Sensor de Luminosidade, DHT-11 (porém no Wokwi é utilizado o DHT-22) e utilizamos também 5 resistores e 24 fios aproximadamente (foto do projeto desligado a seguir)
+![image](https://github.com/VictorMLCapp/Edge-computing/assets/163414336/d2614fcd-4044-4b90-9228-80cbbb474b2d)
+
+
+Foi utilizado duas bibliotecas, sendo elas a LiquidCrystal e a DHT sensor library. 
+
+![image](https://github.com/VictorMLCapp/Edge-computing/assets/163414336/31a41e83-6480-4235-b2b9-b5e322a26606)
+
 
 Código comentado utilizado abaixo:
 
